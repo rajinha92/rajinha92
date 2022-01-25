@@ -2,7 +2,7 @@
 - 👀 I’m interested in NodeJS/ReactJS/ReactNative/Typescript
 - 🌱 I’m currently learning NestJS and evolving Javascript in general
 - 💞️ I’m looking to collaborate on React and Node projects
-- 📫 How to reach me rafae.conrado.farias@gmail.com
+- 📫 How to reach me rafael.conrado.farias@gmail.com
 
 <!---
 rajinha92/rajinha92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
